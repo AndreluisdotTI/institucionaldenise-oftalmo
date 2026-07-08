@@ -1,0 +1,13 @@
+{
+  "name": "dra-denise-perillo-site",
+  "version": "1.0.0",
+  "description": "Site institucional da Dra. Denise Perillo, Cirurgias Oftalmológicas, Brasília. HTML/CSS/JS estático, sem build step.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
